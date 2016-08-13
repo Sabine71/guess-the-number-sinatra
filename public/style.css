@@ -1,0 +1,39 @@
+
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-image: url("img/light-bg1.png");
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 22px
+}
+.trophy {
+  height: 40vmin;
+}
+h1 {
+
+}
+
+.title {
+  font-size: 3em;
+}
+.btn {
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+  }
+
+.guess {
+  font-size: 2em;
+  display: block;
+  margin: 0 auto 1.5em;
+}
+}
